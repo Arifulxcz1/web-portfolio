@@ -45,3 +45,17 @@ section{
     background-repeat:no-repeat;
     background-position:right
 }
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    height: 90%;
+    border-radius:5px;
+}
+.experience-area{
+    background-image:url(/images/exp-bg.png);
+    background-repeat:no-repeat;
+    background-position:left;
+}
+footer{
+    text-align: center;
+    margin-bottom: 20px;
+}
